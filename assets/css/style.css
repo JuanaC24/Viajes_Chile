@@ -1,0 +1,68 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    color: white;
+    background-color: black;
+    font-family: 'Cabin', sans-serif;
+    position: relative;
+    background-repeat: repeat;
+}
+.navbar img{
+    height: 36px;
+    margin-right: 10px;
+    
+}
+.navbar{
+    margin: -40px 0;
+}
+
+#text{
+    margin-left:-1rem;
+    color: white;
+}
+
+.card{
+    color:white;
+    background-color: #0dcaf0;
+}
+.card img{
+    overflow: hidden;
+    background-size: cover;
+}
+.card-img-top{
+    width: 25;
+    height: 10em;
+}
+
+#nosotros,
+#destacados,
+#contacto {
+  padding-top: 14em;
+  margin-top: -14em;
+}
+  .badge {
+    font-size: 0.5em;
+    font-weight: 400;
+    position: relative;
+    top: -0.9em;
+  }
+footer{
+    margin-top: -50px;
+    color: white;
+
+}
+
+  footer i {
+    font-size: 50px;
+    color: white;
+  }
+  footer a:hover {
+    opacity: 0.6;
+  }
+  
+
+    
+   
+
