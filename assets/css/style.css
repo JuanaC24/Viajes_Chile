@@ -23,10 +23,6 @@ body {
     color: white;
 }
 
-.card{
-    color:white;
-    background-color: #0dcaf0;
-}
 .card img{
     overflow: hidden;
     background-size: cover;
